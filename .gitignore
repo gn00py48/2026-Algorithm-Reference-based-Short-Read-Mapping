@@ -1,0 +1,15 @@
+# Build outputs
+/build/
+short_read_mapping
+*.o
+*.out
+*.exe
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated experiment outputs
+/results/
+*.csv
